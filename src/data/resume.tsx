@@ -123,7 +123,7 @@ export const DATA = {
       dates: "September 2022",
       active: true,
       description:
-        "Implemented the frontend for the internship program login page by slicing designs from Figma and building it using Tailwind CSS, in close collaboration with the Design Team.",
+        "Created the internship program login page from Figma designs in close collaboration with the Design Team.",
       technologies: [
         "Laravel",
         "TailwindCSS",
