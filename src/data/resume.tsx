@@ -148,7 +148,6 @@ export const DATA = {
       technologies: [
         "Javascript",
         "TailwindCSS",
-        "Vercel",
       ],
       links: [
         {
