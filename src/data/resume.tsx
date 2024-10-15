@@ -60,10 +60,10 @@ export const DATA = {
         icon: Icons.youtube,
         navbar: true,
       },
-      Email: {
-        name: "Send Email",
-        url: "mailto:chrystalio.k@outlook.com",
-        icon: Icons.email,
+      Telegram: {
+        name: "Telegram",
+        url: "https://t.me/kristoffid",
+        icon: Icons.telegram,
         navbar: true,
       },
     },
