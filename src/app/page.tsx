@@ -116,7 +116,7 @@ export default function Page() {
                   Explore my work
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                   I've had the pleasure of working on a variety of interesting projects. take a look at some that I'm proud of below.
+                   I've had the pleasure of working on a variety of interesting projects. Take a look at some that I'm proud of below.
                 </p>
               </div>
             </div>
