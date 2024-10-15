@@ -13,9 +13,11 @@ export const DATA = {
 
   Recently, I graduated with distinction from [Bangkit Academy](https://grow.google/intl/id_id/bangkit/), where I specialized in Cloud Computing. This experience deepened my expertise in building scalable web applications and cloud-based solutions, helping me bridge the gap between business needs and technical innovation.`,
   skills: [
-    "Laravel",
     "Javascript",
+    "PHP",
+    "Laravel",
     "TailwindCSS",
+    "Bootstrap",
     "ExpressJS",
     "HapiJS",
     "Docker",
