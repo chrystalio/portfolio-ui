@@ -165,6 +165,48 @@ export const DATA = {
       image: "/projects/kapanLibur.png",
       video: "",
     },
+    {
+      title: "Techvolve Landing Page",
+      href: "https://techvolve.kriscode.cloud/",
+      dates: "January 2024",
+      active: true,
+      description:
+        "Techvolve began as a college project, a vision for an ideal company. Today, it has evolved into a landing page that captures the essence of that dream, transforming the concept into a digital showcase of what Techvolve aspires to become.",
+      technologies: [
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://techvolve.kriscode.cloud/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/projects/techvolve.png",
+      video: "",
+    },
+    {
+      title: "Github User Activity - CLI",
+      href: "https://github.com/chrystalio/github-user-activity",
+      dates: "Aug 2024",
+      active: true,
+      description:
+        "An intuitive CLI tool designed to fetch and display GitHub user activity in a visually engaging way, featuring colorized text and ASCII art headers. Inspired by roadmap.sh project ideas, it adds both functionality and a splash of visual appeal.",
+      technologies: [
+        "chalk",
+        "figlet",
+        "Node.js",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/chrystalio/github-user-activity",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/projects/github-cli.png",
+      video: "",
+    },
   ],
   activities: [
     {
