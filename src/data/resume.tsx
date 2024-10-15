@@ -118,50 +118,25 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Login Page - Internship BTP",
-      href: "https://internship.btp.ac.id/login",
-      dates: "September 2022",
+      title: "Github User Activity - CLI",
+      href: "https://github.com/chrystalio/github-user-activity",
+      dates: "August 2024",
       active: true,
       description:
-        "Created the internship program login page from Figma designs in close collaboration with the Design Team.",
+        "An intuitive CLI tool designed to fetch and display GitHub user activity in a visually engaging way, featuring colorized text and ASCII art headers. Inspired by roadmap.sh project ideas, it adds both functionality and a splash of visual appeal.",
       technologies: [
-        "Laravel",
-        "TailwindCSS",
+        "chalk",
+        "figlet",
+        "Node.js",
       ],
       links: [
-        {
-          type: "Website",
-          href: "https://internship.btp.ac.id/login",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/projects/internship.png",
-      video: "",
-    },
-    {
-      title: "KapanLibur",
-      href: "https://kapan-libur.kriscode.cloud/",
-      dates: "September 2023",
-      active: true,
-      description:
-        "Inspired by the daily strugles of my co-workers and friends, I created this website to help them to find out when the next holiday is",
-      technologies: [
-        "Javascript",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://kapan-libur.kriscode.cloud/",
-          icon: <Icons.globe className="size-3" />,
-        },
         {
           type: "Source",
-          href: "https://github.com/chrystalio/KapanLibur",
+          href: "https://github.com/chrystalio/github-user-activity",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/projects/kapanLibur.png",
+      image: "/projects/github-cli.png",
       video: "",
     },
     {
@@ -185,25 +160,50 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Github User Activity - CLI",
-      href: "https://github.com/chrystalio/github-user-activity",
-      dates: "Aug 2024",
+      title: "KapanLibur",
+      href: "https://kapan-libur.kriscode.cloud/",
+      dates: "September 2023",
       active: true,
       description:
-        "An intuitive CLI tool designed to fetch and display GitHub user activity in a visually engaging way, featuring colorized text and ASCII art headers. Inspired by roadmap.sh project ideas, it adds both functionality and a splash of visual appeal.",
+        "Inspired by the daily struggles of my co-workers and friends, I created this website to help them to find out when the next holiday is.",
       technologies: [
-        "chalk",
-        "figlet",
-        "Node.js",
+        "Javascript",
+        "TailwindCSS",
       ],
       links: [
         {
+          type: "Website",
+          href: "https://kapan-libur.kriscode.cloud/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
           type: "Source",
-          href: "https://github.com/chrystalio/github-user-activity",
+          href: "https://github.com/chrystalio/KapanLibur",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/projects/github-cli.png",
+      image: "/projects/kapanLibur.png",
+      video: "",
+    },
+    {
+      title: "Login Page - Internship BTP",
+      href: "https://internship.btp.ac.id/login",
+      dates: "September 2022",
+      active: true,
+      description:
+        "Created the internship program login page from Figma designs in close collaboration with the Design Team.",
+      technologies: [
+        "Laravel",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://internship.btp.ac.id/login",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/projects/internship.png",
       video: "",
     },
   ],
