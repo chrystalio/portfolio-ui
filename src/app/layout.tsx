@@ -55,6 +55,15 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <link rel="icon" type="image/png" sizes="32x32" href="/assets/ico/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/assets/ico/favicon-16x16.png" />
+        <link rel="icon" href="/assets/ico/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/assets/ico/apple-touch-icon.png" />
+        <link rel="manifest" href="/assets/ico/site.webmanifest" />
+        <link rel="icon" type="image/png" sizes="192x192" href="/assets/ico/android-chrome-192x192.png" />
+        <link rel="icon" type="image/png" sizes="512x512" href="/assets/ico/android-chrome-512x512.png" />
+      </head>
       <body
         className={cn(
           "min-h-screen bg-background font-sans antialiased max-w-2xl mx-auto py-12 sm:py-24 px-6",
