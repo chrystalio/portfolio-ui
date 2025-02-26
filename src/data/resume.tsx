@@ -92,12 +92,13 @@ export const DATA = {
       start: "July 2022",
       end: "Now",
       description: [
-        "Developed web-based applications using Laravel.",
-        "Conducted bug fixes to ensure smooth functionality.",
-        "Implemented frontend designs for login pages by slicing from Figma using Tailwind CSS.",
-        "Collaborated with UI-UX design team for seamless design integration.",
-        "Ensured website responsiveness across various devices and browsers.",
-        "Integrated SISTER API to SIPPMI for automated synchronization of lecturers' research with Kemendikbud.",
+        "Developed web-based applications using Laravel",
+        "Conducted bug fixes to ensure smooth functionality",
+        "Implemented frontend designs for login pages by slicing from Figma using Tailwind CSS",
+        "Collaborated with UI-UX design team for seamless design integration",
+        "Ensured website responsiveness across various devices and browsers",
+        "Integrated SISTER API to SIPPMI for automated synchronization of lecturers' research with Kemendikbud",
+        "Enhanced the Aspiration module, enabling students to share feedback and concerns for better communication with university management"
       ],
     },
     {
