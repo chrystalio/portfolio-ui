@@ -71,6 +71,16 @@ export const DATA = {
     },
   },
 
+  certifications: [
+    {
+      title: "Google Cloud Associate Cloud Engineer",
+      issuer: "Google Cloud",
+      issueDate: "October 2024",
+      badgeUrl: "/certifications/ace.png", // You can provide URLs or paths to images
+      verifyUrl: "https://www.credly.com/.../your-certification",
+    },
+  ],
+
   work: [
     {
       company: "Yayasan Vitka",
@@ -215,7 +225,14 @@ export const DATA = {
       dates: "Sept 2024 - Now",
       location: "Batam, Riau Island Indonesia",
       position : "Web Development & UI UX Design",
-      description: [],
+      description: [
+        "Actively contributed to sprint research to identify and implement innovative solutions",
+        "Designed user interfaces with a focus on improving user experience and accessibility",
+        "Developed and optimized APIs using Express.js to support frontend team requirements",
+        "Integrated a payment gateway into the API to enable secure and seamless transactions",
+        "Planned and structured the API to be straightforward and efficient for the frontend team to implement",
+        "Participated in agile development processes, contributing to sprint planning and reviews"
+      ],
       image:
         "/companies/il.png",
       links: [
