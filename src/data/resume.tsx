@@ -223,7 +223,7 @@ export const DATA = {
   activities: [
     {
       title: "Infinite Learning",
-      dates: "Sept 2024 - Now",
+      dates: "Sept 2024 - Dec 2024",
       location: "Batam, Riau Island Indonesia",
       position : "Web Development & UI UX Design",
       description: [
